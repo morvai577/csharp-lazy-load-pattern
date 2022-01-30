@@ -1,2 +1,9 @@
-# csharp-lazy-load-pattern
-An example application demonstrating unit of work data access pattern
+# Theory
+
+# Why use it?
+
+# How to implement
+
+## Implementation
+
+# Consuming
